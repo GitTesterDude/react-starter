@@ -1,7 +1,11 @@
 import react from "react";
 
 const FirstRepo = () => {
-  return <></>;
+  return (
+    <>
+      <div>The first Repository</div>
+    </>
+  );
 };
 
 export default FirstRepo;
